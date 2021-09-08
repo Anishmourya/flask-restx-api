@@ -2,7 +2,7 @@ aniso8601==8.0.0
 attrs==19.3.0
 click==7.1.1
 Flask==1.1.1
-flask-restx==0.2.0
+flask-restx==0.5.1
 gunicorn==20.0.4
 importlib-metadata==1.6.0
 itsdangerous==1.1.0
